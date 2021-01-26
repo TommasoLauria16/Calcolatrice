@@ -4,7 +4,7 @@ namespace Operazioni
 {
     public class Gestione
     {
-    public static int Somma(int a, int b)
+        public static int Somma(int a, int b)
         {
             return a + b;
         }
